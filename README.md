@@ -2,7 +2,7 @@
 This repo is going to create Auto Scaling Group with ELB
 
 #### Requirements
-#### Please use terraform 0.14.7 or above
+#### Please use terraform 0.14.7 or above...
 
 ### Please copy paste below code 
 ```
